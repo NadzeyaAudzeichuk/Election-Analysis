@@ -90,7 +90,8 @@ Similarly, using the same script, but by making slight changes in the code, we c
 Based on that, the winner is Diana DeGette, with 272,892 votes cast and won the election with 73.8% based on the popular vote.
 
 The results of the elections are saved in the *election_analysis.txt* file.
-![Election_Results.png](https://github.com/NadzeyaAudzeichuk/election-analysis/tree/main/Resources)
+
+![Election_Results.png](https://github.com/NadzeyaAudzeichuk/election-analysis/blob/main/Resources/Election_Results.png)
 
 # Election_Audit Summary:
 
