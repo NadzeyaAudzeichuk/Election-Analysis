@@ -1,11 +1,11 @@
-# election-analysis
+# Election Analysis
 PyPoll with Python
 
-# Overview of Election-Audit: 
+## Overview of Election Audit 
 
 We will perform an election audit analysis for US Congressional precinct in Colorado. To begin with, we have a *csv* file with tabulated election results. The audit can be easily performed in Excel, but this project aims to automate the process using Python. Thus, the scrip we write can be used to audit not only congressional districts. 
 
-# Election-Audit Results:
+## Election Audit Results
 
 Here is a breakdown of the project:
 1. Report the total number of votes cast, the voter turnout for each county, the percentage of votes from each county, and the county with the highest turnout.
@@ -93,6 +93,6 @@ The results of the elections are saved in the *election_analysis.txt* file.
 
 ![Election_Results.png](https://github.com/NadzeyaAudzeichuk/election-analysis/blob/main/Resources/Election_Results.png)
 
-# Election_Audit Summary:
+## Election Audit Summary
 
 In summary, as we can see, the audit is done successfully with Python. With some modifications in the script, this kind of analysis can be performed on any election data. It can be used not only in the congressional districts but also in senatorial districts or local elections. Even though the audit can be easily performed in Excel, automating the process with Python is a better choice.
